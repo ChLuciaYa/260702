@@ -29,7 +29,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-DEFAULT_DATA_PATH = "data/population.csv"
+DEFAULT_DATA_PATH = "202606_202606_연령별인구현황_월간.csv"
 NATION_LABEL = "🇰🇷 전국 (17개 시도 합계)"
 
 PRIMARY = "#2E5EAA"      # 남 계열 (블루)
